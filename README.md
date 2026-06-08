@@ -73,7 +73,7 @@ Construyo productos digitales desde cero — todo el ciclo: frontend, backend e 
 
 | Proyecto | Descripción |
 |---|---|
-| ⚖️ **[Zerena Legal](https://zerena.legal)** | Startup legaltech que moderniza los procesos de divorcio combinando tecnología y acompañamiento jurídico |
+| ⚖️ **[Zerena Legal](https://zerenalegal.com.co/)** | Startup legaltech que moderniza los procesos de divorcio combinando tecnología y acompañamiento jurídico |
 | 🎮 **[CafEsports](https://cafesports.online)** | Organización de esports en el Quindío — 120+ jugadores, 25+ equipos en LoL y Valorant |
 | 🌐 **[CorealSoft](https://corealsoft.com)** | Agencia web creando sitios rápidos y modernos para negocios y emprendedores |
 | 📚 **[StudiaWork](https://studiawork.com)** | Plataforma que conecta PyMEs con talento universitario de alto rendimiento para micro-proyectos en tiempo récord |
