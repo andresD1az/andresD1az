@@ -16,7 +16,7 @@ I build real digital products from scratch — full cycle: frontend, backend, an
 
 | Project | Description |
 |---|---|
-| ⚖️ **[Zerena Legal](https://zerena.legal)** | Legaltech startup modernizing divorce processes with tech + human legal support |
+| ⚖️ **[Zerena Legal](https://zerenalegal.com.co/)** | Legaltech startup modernizing divorce processes with tech + human legal support |
 | 🎮 **[CafEsports](https://cafesports.online)** | Esports org in Quindío — 120+ players, 25+ teams in LoL & Valorant |
 | 🌐 **[CorealSoft](https://corealsoft.com)** | Web agency delivering fast, modern sites for businesses & entrepreneurs |
 | 📚 **[StudiaWork](https://studiawork.com)** | B2B platform connecting SMEs with top university talent for fast micro-projects — with academic auditing |
